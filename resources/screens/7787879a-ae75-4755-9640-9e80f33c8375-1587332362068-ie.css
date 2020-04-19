@@ -1,0 +1,76 @@
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Screen-bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Softkeys-bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Square {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Circle {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Triangle {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-more-vertical {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-menu {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Text {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Bg_status {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=15);
+  filter: alpha(opacity=15);
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-hour {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-signals {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Image_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Image_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Image_3 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Image_4 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Text_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Text_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Text_3 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 #s-Text_4 {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-7787879a-ae75-4755-9640-9e80f33c8375 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

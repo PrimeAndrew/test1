@@ -1,0 +1,72 @@
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-Screen-bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-Softkeys-bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-Square {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-Circle {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-Triangle {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-Bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-more-vertical {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-menu {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-Text {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-Bg_status {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=15);
+  filter: alpha(opacity=15);
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-hour {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-signals {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-Line_7 {
+  stroke-width: 1px;
+  stroke: #757575;
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-Line_7 {
+  stroke-width: 1px;
+  stroke: #757575;
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-Line_8 {
+  stroke-width: 2px;
+  stroke: #6200EE;
+  -ms-transform: rotate(0.0deg);
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef #s-Line_8 {
+  stroke-width: 2px;
+  stroke: #6200EE;
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-4f86cdf8-b1a3-45cd-9f8c-69a91368bfef > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
